@@ -9,7 +9,7 @@
   },
   "main": "lib/middleware.js",
   "dependencies": {
-    "less": "https://github.com/al-s/less.js.git",
+    "less": "git://github.com/al-s/less.js.git",
     "mkdirp": "~0.3"
   },
   "devDependencies": {},
